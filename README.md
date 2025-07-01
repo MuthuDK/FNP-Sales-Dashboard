@@ -1,4 +1,4 @@
-# FNP-Sales_Analysis-Dashboard
+# FNP Sales-Analysis-Dashboard
 ## Project Objective
 
 
