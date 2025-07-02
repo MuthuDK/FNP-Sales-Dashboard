@@ -1,6 +1,6 @@
-# FNP Sales-Analysis-Dashboard
+# Ferns and Petals Sales-Analysis-Dashboard
 
-## Project Objectivu
+## Project Objective
   Analyze sales performance across time, products, and regions. Identify top-performing products, cities, and categories to understand the impact on revenue. 
 
 ## Dataset used
